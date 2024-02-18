@@ -6,6 +6,8 @@
 
 #pragma once
 
+// IWYU pragma: private, include "CLI.hpp"
+
 // [CLI11:macros_hpp:verbatim]
 
 // The following version macro is very similar to the one in pybind11
